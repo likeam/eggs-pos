@@ -195,7 +195,7 @@ export default function POS() {
   };
 
   return (
-    <div className="flex gap-4 h-screen p-5 overflow-hidden">
+    <div className="flex gap-4 h-screen p-6 overflow-hidden">
       {/* Products Grid */}
       <div className="flex-1 flex flex-col">
         <div className=" rounded-xl shadow p-4 mb-4">

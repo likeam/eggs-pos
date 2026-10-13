@@ -224,7 +224,7 @@ export default function Products() {
                 </div>
               </div>
             </div>
-            <div className="flex gap-2 mt-6">
+            <div className="flex gap-2 mt-8">
               <button
                 onClick={handleSave}
                 className="flex-1 bg-blue-600 hover:bg-blue-700 text-white py-2 rounded-lg leading-loose"
